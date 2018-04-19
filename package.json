@@ -1,0 +1,24 @@
+{
+  "name": "kochab-monsters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniormince/kochab-monsters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniormince/kochab-monsters/issues"
+  },
+  "homepage": "https://github.com/juniormince/kochab-monsters#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
